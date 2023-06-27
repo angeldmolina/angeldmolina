@@ -50,3 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
 </div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldmolina&layout=compact)
